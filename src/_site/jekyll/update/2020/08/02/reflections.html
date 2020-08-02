@@ -7,15 +7,15 @@
 <meta name="generator" content="Jekyll v4.1.0" />
 <meta property="og:title" content="Reflections" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Reflections" />
-<meta property="og:description" content="Reflections" />
+<meta name="description" content="Thoughts on pre-compiling CSS" />
+<meta property="og:description" content="Thoughts on pre-compiling CSS" />
 <link rel="canonical" href="/jekyll/update/2020/08/02/reflections.html" />
 <meta property="og:url" content="/jekyll/update/2020/08/02/reflections.html" />
 <meta property="og:site_name" content="Julia’s Website" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2020-08-02T06:54:21-05:00" />
 <script type="application/ld+json">
-{"url":"/jekyll/update/2020/08/02/reflections.html","@type":"BlogPosting","headline":"Reflections","dateModified":"2020-08-02T06:54:21-05:00","datePublished":"2020-08-02T06:54:21-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"/jekyll/update/2020/08/02/reflections.html"},"description":"Reflections","@context":"https://schema.org"}</script>
+{"url":"/jekyll/update/2020/08/02/reflections.html","@type":"BlogPosting","headline":"Reflections","dateModified":"2020-08-02T06:54:21-05:00","datePublished":"2020-08-02T06:54:21-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"/jekyll/update/2020/08/02/reflections.html"},"description":"Thoughts on pre-compiling CSS","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Julia's Website" /></head>
 <body><header class="site-header" role="banner">
@@ -45,14 +45,31 @@
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    <h1>Reflections</h1>
-
-<h2>Thoughts on pre-compiling CSS</h2>
+    <h2>Thoughts on pre-compiling CSS</h2>
 
 <p>Since I’ve had previous experience with writing CSS it has been a little bit of an adjustment to use this new
 method of pre-compiling. It was a little bit tricky at first to figure out which things went where, not to
 mention trying to find all the files I needed and properly linking them to make sure everything would be
-included in the browser.</p>
+included in the browser. Despite struggling with this new tool, however, I can abslutely see the value in
+using this method and look forward to learning more about it, as I’m sure it will be very helpful when
+creating websites in the future!</p>
+
+<p>I used Sass for pre-compiling CSS, and to do this I first copied the pre-existing scss files as a base. Here
+I immediately ran into an issue, as the folder the files were supposedly in was nowhere to be found. I did
+manage to solve this problem by using “Inspect element” in the prowser, clicking the style tab, and simply
+downloading the files by clicking “Save” on them and then placing them in my own _sass folder. With these files saved, I went thought them and experimented with changing values to see what happened. I did
+struggle a bit with getting things to connect properly, but after a while I got everything to work the way I
+wanted it to.</p>
+
+<p>The main obvious pro of using this method is that it’s easy to achieve consistency and it’s much easier to
+maintain than writing one’s own CSS code. However it is a bit tricky to learn how Sass relates to CSS and
+how to achieve one’s goals, but once you’re past the learning curve it is ultimately a great tool to use.</p>
+
+<h2>Thoughts on static site generators</h2>
+
+<p>Static site generators can be useful for quickly and easily throwing together a website for simple purposes
+like for instance sharing information with an organization, uploading a photo gallery, or run a blog. The
+fact that a lot of things are automatic can be very convenient for these purposes.</p>
 
 <div class="trigger"><a class="page-link" href="/blogposts/">Back to blog posts</a></div>
 

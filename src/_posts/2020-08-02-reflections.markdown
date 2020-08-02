@@ -4,13 +4,30 @@ title:  "Reflections"
 date:   2020-08-02 06:54:21 -0500
 categories: jekyll update
 ---
-<h1>Reflections</h1>
-
 <h2>Thoughts on pre-compiling CSS</h2>
 
 Since I've had previous experience with writing CSS it has been a little bit of an adjustment to use this new
 method of pre-compiling. It was a little bit tricky at first to figure out which things went where, not to
 mention trying to find all the files I needed and properly linking them to make sure everything would be
-included in the browser.
+included in the browser. Despite struggling with this new tool, however, I can abslutely see the value in
+using this method and look forward to learning more about it, as I'm sure it will be very helpful when
+creating websites in the future!
+
+I used Sass for pre-compiling CSS, and to do this I first copied the pre-existing scss files as a base. Here
+I immediately ran into an issue, as the folder the files were supposedly in was nowhere to be found. I did
+manage to solve this problem by using "Inspect element" in the prowser, clicking the style tab, and simply
+downloading the files by clicking "Save" on them and then placing them in my own _sass folder. With these files saved, I went thought them and experimented with changing values to see what happened. I did
+struggle a bit with getting things to connect properly, but after a while I got everything to work the way I
+wanted it to.
+
+The main obvious pro of using this method is that it's easy to achieve consistency and it's much easier to
+maintain than writing one's own CSS code. However it is a bit tricky to learn how Sass relates to CSS and
+how to achieve one's goals, but once you're past the learning curve it is ultimately a great tool to use.
+
+<h2>Thoughts on static site generators</h2>
+
+Static site generators can be useful for quickly and easily throwing together a website for simple purposes
+like for instance sharing information with an organization, uploading a photo gallery, or run a blog. The
+fact that a lot of things are automatic can be very convenient for these purposes.
 
 <div class="trigger"><a class="page-link" href="/blogposts/">Back to blog posts</a></div>

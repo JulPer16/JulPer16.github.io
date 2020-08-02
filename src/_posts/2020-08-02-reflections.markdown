@@ -4,9 +4,9 @@ title:  "Reflections"
 date:   2020-08-02 06:54:21 -0500
 categories: jekyll update
 ---
-#Reflections
+<h1>Reflections</h1>
 
-##Thoughts on pre-compiling CSS
+<h2>Thoughts on pre-compiling CSS</h2>
 
 Since I've had previous experience with writing CSS it has been a little bit of an adjustment to use this new
 method of pre-compiling. It was a little bit tricky at first to figure out which things went where, not to

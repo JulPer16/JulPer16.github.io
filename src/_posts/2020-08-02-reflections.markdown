@@ -30,15 +30,24 @@ Static site generators can be useful for quickly and easily throwing together a 
 like for instance sharing information with an organization, uploading a photo gallery, or run a blog. The
 fact that a lot of things are automatic can be very convenient for these purposes.
 
+----MOAR----
+
 <h2>Robots and humans</h2>
 
 text
 
 <h2>How comments were implemented</h2>
 
-text
+This was by far the most difficult part of the assignment and had me on the verge of pulling my hair out. I
+used Disqus for implementing comments, and the principle is a very simple one. I just had to register on the
+Disqus website and write two lines in my _config file to add the comment section, that was it! However, it
+was not working. When attempting to view the comments on a blog post, all I got was a message saying that
+Disqus failed to load and to look over the troubleshooting guide. Hours upon hours were spent trying to figure
+out what could have gone wrong. I looked at guides, I read through previous Slack conversations from other people having similar issues, I googled ad nauseam... Nothing worked even though everything looked right.
 
-<h2>About Open Grap</h2>
+The only thing I could think of was that it wasn't working on my local machine (and I could also not add it to the list of trusted websites on Disqus since it wasn't a published website) so what I ended up doing was prematurely publishing my website on Github and then added github.io to my list of trusted domains. Lo and behold, now comments were showing up just like they should! I still don't know why it seemed to be working for other people and not me, but I'm glad I managed to figure out how to fix it.
+
+<h2>About Open Graph</h2>
 
 text
 

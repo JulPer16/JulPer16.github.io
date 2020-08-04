@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-04T06:13:00-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Julia’s Website</title><subtitle>This is Julia Perlkvist's website designated for the course 1DV022 at Linnaeus University under the UDM program.</subtitle><entry><title type="html">Reflections</title><link href="http://localhost:4000/jekyll/update/2020/08/02/reflections.html" rel="alternate" type="text/html" title="Reflections" /><published>2020-08-02T06:54:21-05:00</published><updated>2020-08-02T06:54:21-05:00</updated><id>http://localhost:4000/jekyll/update/2020/08/02/reflections</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/08/02/reflections.html">&lt;h2&gt;Thoughts on pre-compiling CSS&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-04T06:22:22-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Julia’s Website</title><subtitle>This is Julia Perlkvist's website designated for the course 1DV022 at Linnaeus University under the UDM program.</subtitle><entry><title type="html">Reflections</title><link href="http://localhost:4000/jekyll/update/2020/08/02/reflections.html" rel="alternate" type="text/html" title="Reflections" /><published>2020-08-02T06:54:21-05:00</published><updated>2020-08-02T06:54:21-05:00</updated><id>http://localhost:4000/jekyll/update/2020/08/02/reflections</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/08/02/reflections.html">&lt;h2&gt;Thoughts on pre-compiling CSS&lt;/h2&gt;
 
 &lt;p&gt;Since I’ve had previous experience with writing CSS it has been a little bit of an adjustment to use this new
 method of pre-compiling. It was a little bit tricky at first to figure out which things went where, not to
@@ -24,15 +24,24 @@ how to achieve one’s goals, but once you’re past the learning curve it is ul
 like for instance sharing information with an organization, uploading a photo gallery, or run a blog. The
 fact that a lot of things are automatic can be very convenient for these purposes.&lt;/p&gt;
 
+&lt;p&gt;—-MOAR—-&lt;/p&gt;
+
 &lt;h2&gt;Robots and humans&lt;/h2&gt;
 
 &lt;p&gt;text&lt;/p&gt;
 
 &lt;h2&gt;How comments were implemented&lt;/h2&gt;
 
-&lt;p&gt;text&lt;/p&gt;
+&lt;p&gt;This was by far the most difficult part of the assignment and had me on the verge of pulling my hair out. I
+used Disqus for implementing comments, and the principle is a very simple one. I just had to register on the
+Disqus website and write two lines in my _config file to add the comment section, that was it! However, it
+was not working. When attempting to view the comments on a blog post, all I got was a message saying that
+Disqus failed to load and to look over the troubleshooting guide. Hours upon hours were spent trying to figure
+out what could have gone wrong. I looked at guides, I read through previous Slack conversations from other people having similar issues, I googled ad nauseam… Nothing worked even though everything looked right.&lt;/p&gt;
 
-&lt;h2&gt;About Open Grap&lt;/h2&gt;
+&lt;p&gt;The only thing I could think of was that it wasn’t working on my local machine (and I could also not add it to the list of trusted websites on Disqus since it wasn’t a published website) so what I ended up doing was prematurely publishing my website on Github and then added github.io to my list of trusted domains. Lo and behold, now comments were showing up just like they should! I still don’t know why it seemed to be working for other people and not me, but I’m glad I managed to figure out how to fix it.&lt;/p&gt;
+
+&lt;h2&gt;About Open Graph&lt;/h2&gt;
 
 &lt;p&gt;text&lt;/p&gt;
 

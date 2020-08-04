@@ -30,4 +30,16 @@ Static site generators can be useful for quickly and easily throwing together a 
 like for instance sharing information with an organization, uploading a photo gallery, or run a blog. The
 fact that a lot of things are automatic can be very convenient for these purposes.
 
+<h2>Robots and humans</h2>
+
+text
+
+<h2>How comments were implemented</h2>
+
+text
+
+<h2>About Open Grap</h2>
+
+text
+
 <div class="trigger"><a class="page-link" href="/blogposts/">Back to blog posts</a></div>

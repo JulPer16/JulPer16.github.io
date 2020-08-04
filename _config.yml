@@ -23,7 +23,7 @@ email: jp223es@student.lnu.se
 description: >- # this means to ignore newlines until "baseurl:"
   This is Julia Perlkvist's website designated for the course 1DV022 at Linnaeus University under the UDM program.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://julper16.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  JulPer16
 
 # Build settings

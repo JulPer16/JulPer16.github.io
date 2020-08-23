@@ -76,13 +76,13 @@ table th { background-color: white; border: 1px solid whitesmoke; border-bottom-
 table td { border: 1px solid white; }
 
 /** Site header */
-.site-header { border-top: 5px solid #616161; border-bottom: 1px solid white; min-height: 55.95px; position: relative; }
+.site-header { border-top: 7px solid #616161; border-bottom: 3px solid white; min-height: 55.95px; position: relative; }
 
-.site-title { font-size: 26px; font-weight: 300; line-height: 54px; letter-spacing: -1px; margin-bottom: 0; float: left; }
+.site-title { font-size: 32px; font-weight: 300; line-height: 54px; letter-spacing: -1px; margin-bottom: 0; float: left; }
 
 .site-title, .site-title:visited { color: #616161; }
 
-.site-nav { float: right; line-height: 54px; }
+.site-nav { float: right; line-height: 60px; }
 
 .site-nav .nav-trigger { display: none; }
 
@@ -90,7 +90,7 @@ table td { border: 1px solid white; }
 
 .site-nav .page-link { color: white; line-height: 1.5; }
 
-.site-nav .page-link:not(:last-child) { margin-right: 20px; }
+.site-nav .page-link:not(:last-child) { margin-right: 25px; }
 
 @media screen and (max-width: 600px) { .site-nav { position: absolute; top: 9px; right: 15px; background-color: #2c2c2c; border: 1px solid white; border-radius: 5px; text-align: right; } .site-nav label[for="nav-trigger"] { display: block; float: right; width: 36px; height: 36px; z-index: 2; cursor: pointer; } .site-nav .menu-icon { display: block; float: right; width: 36px; height: 26px; line-height: 0; padding-top: 10px; text-align: center; } .site-nav .menu-icon > svg { fill: #616161; } .site-nav input ~ .trigger { clear: both; display: none; } .site-nav input:checked ~ .trigger { display: block; padding-bottom: 5px; } .site-nav .page-link { display: block; padding: 5px 10px; margin-left: 20px; } .site-nav .page-link:not(:last-child) { margin-right: 0; } }
 

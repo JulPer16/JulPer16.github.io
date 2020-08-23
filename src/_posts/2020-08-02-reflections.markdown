@@ -16,7 +16,7 @@ creating websites in the future!
 I used Sass for pre-compiling CSS, and to do this I first copied the pre-existing scss files as a base. Here
 I immediately ran into an issue, as the folder the files were supposedly in was nowhere to be found. I did
 manage to solve this problem by using "Inspect element" in the prowser, clicking the style tab, and simply
-downloading the files by clicking "Save" on them and then placing them in my own _sass folder. With these files saved, I went thought them and experimented with changing values to see what happened. I did
+downloading the files by clicking "Save" on them and then placing them in my own _sass folder. With these files saved, I went through them and experimented with changing values to see what happened. I did
 struggle a bit with getting things to connect properly, but after a while I got everything to work the way I
 wanted it to.
 
@@ -27,14 +27,16 @@ how to achieve one's goals, but once you're past the learning curve it is ultima
 <h2>Thoughts on static site generators</h2>
 
 Static site generators can be useful for quickly and easily throwing together a website for simple purposes
-like for instance sharing information with an organization, uploading a photo gallery, or run a blog. The
-fact that a lot of things are automatic can be very convenient for these purposes.
-
-----MOAR----
+like for instance sharing information with an organization, uploading a photo gallery, publish a restaurant's menu, or run a blog. The
+fact that a lot of things are automatic can be very convenient for these purposes. SSG's are particularly a great tool for easily sharing information, and as the sites are easily maintained it's a rather simple task to continuously update said information as needed. 
 
 <h2>Robots and humans</h2>
 
-text
+The text files robots.txt and humans.txt are files placed in the root of a website to provide certain information.
+
+The robots,txt file contains commands that tell web robots whether or not they are permitted to traverse the website. It can be used to disallow web robots, however the robots are able to ignore it so the file is no guarantee. For my own website, I have simply disallowed all robots on the entire site.
+
+The humans.txt file contains information about the contributors behind a website. This can be whatever you choose to include, like developers, designers, organizations, etc. Since I am the only person behind this website, I have just put myself as the developer and included my student id (since this is being used for school purposes) as well as my GitHub name.
 
 <h2>How comments were implemented</h2>
 
@@ -49,6 +51,6 @@ The only thing I could think of was that it wasn't working on my local machine (
 
 <h2>About Open Graph</h2>
 
-text
+Open Graph is a protocol for adding metadata to a website, which helps create a neat summary containing all the right things when sharing links on social media. For instance, in a news article one might want to show the headline, a summary of the contents, and an accompanying image. I have chosen to include title, type, url and image in my metadata (the image is a free to use picture of a computer that I found online).
 
 <div class="trigger"><a class="page-link" href="/blogposts/">Back to blog posts</a></div>

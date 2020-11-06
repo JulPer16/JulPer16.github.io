@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="http://julper16.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://julper16.github.io/" rel="alternate" type="text/html" /><updated>2020-08-23T19:10:31-05:00</updated><id>http://julper16.github.io/feed.xml</id><title type="html">Julia’s Website</title><subtitle>This is Julia Perlkvist's website designated for the course 1DV022 at Linnaeus University under the UDM program.</subtitle><entry><title type="html">Reflections</title><link href="http://julper16.github.io/jekyll/update/2020/08/02/reflections.html" rel="alternate" type="text/html" title="Reflections" /><published>2020-08-02T06:54:21-05:00</published><updated>2020-08-02T06:54:21-05:00</updated><id>http://julper16.github.io/jekyll/update/2020/08/02/reflections</id><content type="html" xml:base="http://julper16.github.io/jekyll/update/2020/08/02/reflections.html">&lt;h2&gt;Thoughts on pre-compiling CSS&lt;/h2&gt;
+
+&lt;p&gt;Since I’ve had previous experience with writing CSS it has been a little bit of an adjustment to use this new
+method of pre-compiling. It was a little bit tricky at first to figure out which things went where, not to
+mention trying to find all the files I needed and properly linking them to make sure everything would be
+included in the browser. Despite struggling with this new tool, however, I can abslutely see the value in
+using this method and look forward to learning more about it, as I’m sure it will be very helpful when
+creating websites in the future!&lt;/p&gt;
+
+&lt;p&gt;I used Sass for pre-compiling CSS, and to do this I first copied the pre-existing scss files as a base. Here
+I immediately ran into an issue, as the folder the files were supposedly in was nowhere to be found. I did
+manage to solve this problem by using “Inspect element” in the prowser, clicking the style tab, and simply
+downloading the files by clicking “Save” on them and then placing them in my own _sass folder. With these files saved, I went through them and experimented with changing values to see what happened. I did
+struggle a bit with getting things to connect properly, but after a while I got everything to work the way I
+wanted it to.&lt;/p&gt;
+
+&lt;p&gt;The main obvious pro of using this method is that it’s easy to achieve consistency and it’s much easier to
+maintain than writing one’s own CSS code. However it is a bit tricky to learn how Sass relates to CSS and
+how to achieve one’s goals, but once you’re past the learning curve it is ultimately a great tool to use.&lt;/p&gt;
+
+&lt;h2&gt;Thoughts on static site generators&lt;/h2&gt;
+
+&lt;p&gt;Static site generators can be useful for quickly and easily throwing together a website for simple purposes
+like for instance sharing information with an organization, uploading a photo gallery, publish a restaurant’s menu, or run a blog. The
+fact that a lot of things are automatic can be very convenient for these purposes. SSG’s are particularly a great tool for easily sharing information, and as the sites are easily maintained it’s a rather simple task to continuously update said information as needed.&lt;/p&gt;
+
+&lt;h2&gt;Robots and humans&lt;/h2&gt;
+
+&lt;p&gt;The text files robots.txt and humans.txt are files placed in the root of a website to provide certain information.&lt;/p&gt;
+
+&lt;p&gt;The robots,txt file contains commands that tell web robots whether or not they are permitted to traverse the website. It can be used to disallow web robots, however the robots are able to ignore it so the file is no guarantee. For my own website, I have simply disallowed all robots on the entire site.&lt;/p&gt;
+
+&lt;p&gt;The humans.txt file contains information about the contributors behind a website. This can be whatever you choose to include, like developers, designers, organizations, etc. Since I am the only person behind this website, I have just put myself as the developer and included my student id (since this is being used for school purposes) as well as my GitHub name.&lt;/p&gt;
+
+&lt;h2&gt;How comments were implemented&lt;/h2&gt;
+
+&lt;p&gt;This was by far the most difficult part of the assignment and had me on the verge of pulling my hair out. I
+used Disqus for implementing comments, and the principle is a very simple one. I just had to register on the
+Disqus website and write two lines in my _config file to add the comment section, that was it! However, it
+was not working. When attempting to view the comments on a blog post, all I got was a message saying that
+Disqus failed to load and to look over the troubleshooting guide. Hours upon hours were spent trying to figure
+out what could have gone wrong. I looked at guides, I read through previous Slack conversations from other people having similar issues, I googled ad nauseam… Nothing worked even though everything looked right.&lt;/p&gt;
+
+&lt;p&gt;The only thing I could think of was that it wasn’t working on my local machine (and I could also not add it to the list of trusted websites on Disqus since it wasn’t a published website) so what I ended up doing was prematurely publishing my website on Github and then added github.io to my list of trusted domains. Lo and behold, now comments were showing up just like they should! I still don’t know why it seemed to be working for other people and not me, but I’m glad I managed to figure out how to fix it.&lt;/p&gt;
+
+&lt;h2&gt;About Open Graph&lt;/h2&gt;
+
+&lt;p&gt;Open Graph is a protocol for adding metadata to a website, which helps create a neat summary containing all the right things when sharing links on social media. For instance, in a news article one might want to show the headline, a summary of the contents, and an accompanying image. I have chosen to include title, type, url and image in my metadata (the image is a free to use picture of a computer that I found online).&lt;/p&gt;
+
+&lt;div class=&quot;trigger&quot;&gt;&lt;a class=&quot;page-link&quot; href=&quot;/blogposts/&quot;&gt;Back to blog posts&lt;/a&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">Thoughts on pre-compiling CSS</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://julper16.github.io/jekyll/update/2020/07/28/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-07-28T14:40:27-05:00</published><updated>2020-07-28T14:40:27-05:00</updated><id>http://julper16.github.io/jekyll/update/2020/07/28/welcome-to-jekyll</id><content type="html" xml:base="http://julper16.github.io/jekyll/update/2020/07/28/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/orgs/1dv022/teams/jp223es/repositories/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>

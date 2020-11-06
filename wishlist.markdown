@@ -13,4 +13,8 @@ permalink: /wishlist/
 4. Smink
     1. Läppstift Melt Cosmetics, färg Starlight [(länk)](https://www.beautybay.com/p/melt-cosmetics/lipstick/starlight/)
     2. Läppstift Melt Cosmetics, färg Space Cake [(länk)](https://www.beautybay.com/p/melt-cosmetics/lipstick/space-cake/)
+    3. Läppenna Jeffree Star Cosmetics, färg Unicorn Blood [(länk)](https://www.beautybay.com/p/jeffree-star-cosmetics/velour-lip-liner/unicorn-blood/)
+    4. Läppenna Jeffree Star Cosmetics, färg Redrum [(länk)](https://www.beautybay.com/p/jeffree-star-cosmetics/velour-lip-liner/redrum/)
+    5. Läppenna Jeffree Star Cosmetics, färg Posh Spice [(länk)](https://www.beautybay.com/p/jeffree-star-cosmetics/velour-lip-liner/posh-spice/)
+    6. Läppenna Jeffree Star Cosmetics, färg Deceased [(länk)](https://www.beautybay.com/p/jeffree-star-cosmetics/velour-lip-liner/deceased/)
 5. Böcker på tyska (inte alltför avancerade)

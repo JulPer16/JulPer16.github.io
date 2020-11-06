@@ -9,3 +9,8 @@ permalink: /wishlist/
 
 1. Svarta nylonstrumpbyxor
 2. Album "Pornography" av The Cure
+3. test
+4. Smink
+    1. Läppstift Melt Cosmetics, färg Starlight [(länk)](https://www.beautybay.com/p/melt-cosmetics/lipstick/starlight/)
+    2. Läppstift Melt Cosmetics, färg Space Cake [(länk)](https://www.beautybay.com/p/melt-cosmetics/lipstick/space-cake/)
+5. Böcker på tyska (inte alltför avancerade)

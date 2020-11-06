@@ -4,4 +4,7 @@ title: Önskelista
 permalink: /wishlist/
 ---
 
-NYTT TEST
+#Julia 2020
+
+* Svarta nylonstrumpbyxor
+* Album "Pornography" av The Cure

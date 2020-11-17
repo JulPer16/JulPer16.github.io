@@ -36,3 +36,10 @@ permalink: /wishlist/
     10. Libra Tights [(länk)](https://www.killstar.com/collections/womens-socks-tights/products/libra-tights-b)
     12. Suspend Me Statement Skirt - storlek XS [(länk)](https://www.killstar.com/collections/womens-bottoms/products/suspend-me-statement-skirt)
     13. She's Magic Cropped Hoodie - storlek S [(länk)](https://www.killstar.com/collections/womens-tops/products/shes-magic-cropped-hoodie)
+7. Kate's Clothing (har också Killstar-saker, går att söka på produktnamnen):
+    1. Regina Skater Dress - storlek 10/S [(länk)](https://www.katesclothing.co.uk/collections/dark-in-love/products/dark-in-love-regina-skater-dress)
+    2. Tercia Serpent Earrings [(länk)](https://www.katesclothing.co.uk/collections/alchemy/products/alchemy-gothic-tercia-serpent-earrings)
+    3. Emerald Spiderling Pendant [(länk)](https://www.katesclothing.co.uk/collections/alchemy/products/alchemy-gothic-emerald-spiderling-pendant)
+    4. Empyrean Tear Droppers [(länk)](https://www.katesclothing.co.uk/collections/alchemy/products/alchemy-gothic-empyrean-tear-droppers-red)
+    5. Kiss The Night Earrings [(länk)](https://www.katesclothing.co.uk/collections/alchemy/products/alchemy-gothic-kiss-the-night-earrings)
+    6. Ribcage Mini Dress [(länk)](https://www.katesclothing.co.uk/collections/hell-bunny/products/hell-bunny-ribcage-mini-dress)

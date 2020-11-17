@@ -22,3 +22,5 @@ permalink: /wishlist/
     8. Läppstift Jeffree Star Cosmetics, färg So Jaded [(länk)](https://www.beautybay.com/p/jeffree-star-cosmetics/velvet-trap-lipstick/so-jaded/)
     9. Läppstift Jeffree Star Cosmetics, färg Drill Sergeant [(länk)](https://www.beautybay.com/p/jeffree-star-cosmetics/velvet-trap-lipstick/drill-sergeant/)
 5. Böcker på tyska (inte alltför avancerade)
+6. Killstar (se till att det är från UK och inte USA, uppe till höger):
+    1. Cauldron Cookie Jar [(länk)](https://www.killstar.com/collections/for-ur-crypt/products/cauldron-cookie-jar)

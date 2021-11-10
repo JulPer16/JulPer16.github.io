@@ -10,4 +10,4 @@ permalink: /wishlist/
 1. Svarta nylonstrumpbyxor
 2. Pengar
 3. She Past Away merch:
-    1. Band collection, antingen tank top ladies S eller casual tee women's S [(länk)] (https://shepastawayofficial.bandcamp.com/merch/band-collection)
+    1. Band collection, antingen tank top ladies S eller casual tee women's S [(länk)](https://shepastawayofficial.bandcamp.com/merch/band-collection)

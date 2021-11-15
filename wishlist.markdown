@@ -37,4 +37,10 @@ permalink: /wishlist/
     12. ILNP - Salem [(länk)](https://www.hypnoticpolish.com/products/ilnp-salem)
     13. ILNP - Vanity [(länk)](https://www.hypnoticpolish.com/products/ilnp-vanity)
     14. KBShimmer - Race Against Slime [(länk)](https://www.hypnoticpolish.com/products/kbshimmer-race-against-slime)
+    15. Masura - Youth [(länk)](https://www.hypnoticpolish.com/products/masura-golden-collection-1457-youth)
+    16. Picture Polish - Red Room [(länk)](https://www.hypnoticpolish.com/products/picture-polish-store-exclusive-red-room)
+    17. Rogue Lacquer - Down the Rabbit Hole [(länk)](https://www.hypnoticpolish.com/products/rogue-lacquer-down-the-rabbit-hole)
+    18. Starrily - Fractal [(länk)](https://www.hypnoticpolish.com/products/starrily-fractal)
+    19. Wildflower Lacquer - In Deep Trout [(länk)](https://www.hypnoticpolish.com/products/wildflower-lacquer-in-deep-trout)
+    20. Wildflower Lacquer - Later Gator [(länk)](https://www.hypnoticpolish.com/products/wildflower-lacquer-later-gator)
     

@@ -43,4 +43,6 @@ permalink: /wishlist/
     18. Starrily - Fractal [(länk)](https://www.hypnoticpolish.com/products/starrily-fractal)
     19. Wildflower Lacquer - In Deep Trout [(länk)](https://www.hypnoticpolish.com/products/wildflower-lacquer-in-deep-trout)
     20. Wildflower Lacquer - Later Gator [(länk)](https://www.hypnoticpolish.com/products/wildflower-lacquer-later-gator)
-7. Vita kontaktliner, styrka vänster -1,25 höger -1,50 [(länk)](https://www.pinkyparadise.com/Princess-Pinky-Cosplay-Corunus-p/f24-f33-3.htm)
+7. Linser Pinky Paradise (styrka vänster -1,25 höger -1,50)
+    1. Vita [(länk)](https://www.pinkyparadise.com/Princess-Pinky-Cosplay-Corunus-p/f24-f33-3.htm)
+    2. Svarta [(länk)](https://www.pinkyparadise.com/Hana-SPC-Barbie-Circle-Black-p/g4-hana-spc-barbie-circle-blk.htm)

@@ -9,6 +9,7 @@ permalink: /wishlist/
 
 1. Svarta nylonstrumpbyxor
 2. Svart nagellack, typ Essie
+3. Steamer till kläder
 3. Pengar
 4. Fantasmagoria:
     1. Black Matrix Top, storlek XS-S [(länk)](https://fantasmagoria.shop/black-matrix-top#/62-size-xs_s)
